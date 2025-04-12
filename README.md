@@ -21,8 +21,8 @@ Dependencies
 2. estout #for table generation
 3. Margins plot #for plotting marginal effects
 
-Data simulation assumptions: 
-The simulation uses reasonable demographic and psychographic distributions based on the following assumptions: 
+Data simulation assumptions: \n
+The simulation uses reasonable demographic and psychographic distributions based on the following assumptions: \n
 	1	Demographic Assumptions:
 	◦	Age: 18-29 (20%), 30-49 (35%), 50-64 (25%), 65+ (20%)
 	◦	Gender: Male (49%), Female (51%)
